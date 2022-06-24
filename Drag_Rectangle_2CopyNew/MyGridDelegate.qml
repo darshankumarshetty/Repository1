@@ -18,4 +18,14 @@ Rectangle {
             rect.width=_root.width/7
         }
     }
+Rectangle {
+    id:rect
+    height:  _root.height/6
+    width: _root.width/7
+    color: "gray"
+    Text {
+        text: index
+        anchors.fill: parent
+        color: "white"
+    }
 }
