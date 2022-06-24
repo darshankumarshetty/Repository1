@@ -13,6 +13,3 @@ Item {
         anchors.leftMargin: _root.width/4
     }
 }
-Rectangle
-{
-}
