@@ -23,4 +23,7 @@ import QtQuick.Window 2.13
 //        columns: 3
 //        rows: 3
 //   }
+Rectangle 
+{
+}
 }
