@@ -16,11 +16,11 @@ Rectangle{
             console.log("Object_"+drag.source)
         }
     }
-    GridLayout {
-        id:gv
-       height: _root.height/2.33
-        width: _root.width/2.66
-        columns: 3
-        rows: 3
-   }
+//    GridLayout {
+//        id:gv
+//       height: _root.height/2.33
+//        width: _root.width/2.66
+//        columns: 3
+//        rows: 3
+//   }
 }
